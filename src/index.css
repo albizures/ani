@@ -1,0 +1,17 @@
+body {
+	background: #2e3440;
+	color: #eceff4;
+}
+
+.el {
+	display: inline-block;
+	width: 300px;
+	height: 300px;
+}
+
+.letter-code {
+	display: inline-block;
+	line-height: 1em;
+	opacity: 0;
+	transform-origin: 0 0;
+}
